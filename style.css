@@ -4,7 +4,7 @@
     box-sizing: border-box; 
     font-family: sans-serif;
 }
-
+ 
 .bg-image{
     /* background: linear-gradient(135deg, #1f0113 0%, #4a0026 40%, #800040 100%); */
   background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 40%, #4c1d95 70%, #701a75 100%);
