@@ -6,7 +6,7 @@ A simple, beautiful, and responsive web-based music player built as part of the 
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 *   **Audio Playback:** Built-in web audio controls supporting track execution via standard HTML5.
 *   **Custom Branding:** Includes stylized layouts featuring custom logos and dynamic backgrounds.
